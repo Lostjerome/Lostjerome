@@ -16,3 +16,4 @@ I'm Jerome - Front-end developer from Thailand
 ### Contacts
 
 * naronkrach@gmail.com
+* 𝕵𝖊𝖗𝖔𝖒𝖊#1324 - Discord
