@@ -42,3 +42,13 @@ I'm Jerome - Front-end developer from Thailand
 * naronkrach@gmail.com
 * 𝕵𝖊𝖗𝖔𝖒𝖊#1324 - Discord
 
+<div style="margin-top:50px;">
+<a href="https://github.com/lostjerome/github-readme-stats">
+<img  width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=lostjerome&theme=dracula&show_icons=true&count_private=true" />
+</a>
+
+<a href="https://github.com/Giingu">
+  <img width="45%" align="center"  src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
+  </a>
+</div>
+
