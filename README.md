@@ -48,7 +48,7 @@ I'm Jerome - Front-end developer from Thailand
 </a>
 
 <a href="https://github.com/Giingu">
-  <img width="45%" align="center"  src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
+  <img width="45%" align="center"  src="http://github-readme-streak-stats.herokuapp.com/?user=lostjerome&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
   </a>
 </div>
 
