@@ -40,7 +40,7 @@ I'm Jerome - Front-end developer from Thailand
 ### Contacts
 
 * naronkrach@gmail.com
-* 𝕵𝖊𝖗𝖔𝖒𝖊#1324 - Discord
+* Discord: 𝕵𝖊𝖗𝖔𝖒𝖊#1324
 
 <div style="margin-top:50px;">
 <a href="https://github.com/lostjerome/github-readme-stats">
