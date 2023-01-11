@@ -20,7 +20,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/naronkrach-tanajarusawas-1860281b3/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a> 
+  &nbsp;
   <a href="https://instagram.com/lostjerome">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
