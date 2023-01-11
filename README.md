@@ -5,8 +5,8 @@
 
 </div>
 <h3>More about myself:</h3>
-<p>&emsp; 👨‍💻 Working on front-end devlopment</p>
-<p>&emsp; 👀 Looking for a project work</p>
+<p>&emsp; 👨‍💻 Working on front-end development</p>
+<p>&emsp; 👀 Looking for a projects work</p>
 <p>&emsp; ✨ Currently learning backend and mobile development </p>
 <p>&emsp; 💭 I can do a nice UI as well</p>
 
