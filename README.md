@@ -6,17 +6,17 @@
 
 
 </div>
-<h3>More about myself:</h3>
+<h3>Glad you're here. I'm ..</h3>
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="20" height="20">
  Working on front-end development</p>
-<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> Looking for a projects work</p>
+<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> Looking for work projects</p>
 <p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Currently learning backend and mobile development </p>
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
  I can do a nice UI as well</p>
 
-<h3 align="left">Let's get in touch:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/naronkrach-tanajarusawas-1860281b3/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -30,11 +30,11 @@
 
 <h3 >Web development:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,express,flutter,graphql,java,materialui,mysql,nextjs,nodejs,py,react,redux,tailwind,styledcomponents,vue,html,css&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,nodejs,express,graphql,mysql,nextjs,flutter,react,redux,vue,materialui,tailwind,styledcomponents,html,css&perline=10)](https://skillicons.dev)
   
 <h3 align="left">Tools:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,netlify,vercel,vite,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,github,netlify,vercel,vite,vscode,idea)](https://skillicons.dev)
  
 </div>
 
