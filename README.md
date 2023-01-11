@@ -1,54 +1,25 @@
+<h3 align="center">This is Jerome the front-end developer 💻 </h3> <h5 align="center"> (I don't know how to center a div) </h5>
 
+<h3>More about myself:</h3>
+<p>&emsp; 👨‍💻 Working on front-end devlopment</p>
+<p>&emsp; 👀 Looking for a project work</p>
+<p>&emsp; ✨ Currently learning backend and mobile development </p>
+<p>&emsp; 💭 I can do a nice UI as well</p>
+<br>
+<h3 align="left">Let's get in touch:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/naronkrach-tanajarusawas-1860281b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naronkrach tanajarusawas" height="30" width="40" /></a>
+<a href="https://medium.com/@naronkrach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naronkrach" height="30" width="40" /></a>
+</p>
+<br>
 
-### Hi there 👋
-
-I'm Jerome - Front-end developer from Thailand
-
----
-
-### Languages
-
-<!-- * TypeScript, JavaScript, Java, Python
-* React, Next, Flutter
-* NodeJS, Redux
-* MySQL, GraphQL -->
-
-<img align="left" alt="ts" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/TypeScript.png" />
-<img align="left" alt="js" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/JavaScript.png" />
-<img align="left" alt="java" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/Java.png" />
-<img align="left" alt="py" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/Python.png" />
-
-<br/>
-<br/>
-
-### Technologies
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 
 
-<img align="left" alt="react" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/React.png" />
-<img align="left" alt="next" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/Next.png" />
-<img align="left" alt="flutter" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/Flutter.png" />
-<img align="left" alt="node" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/NodeJs.png" />
-<img align="left" alt="redux" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/Redux.svg" />
-<img align="left" alt="mysql" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/MySQL.png" />
-<img align="left" alt="graphql" height="22px" src="https://github.com/Lostjerome/Lostjerome/blob/main/images/GraphQL.png" />
+<div align="center">
+  <img  width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=lostjerome&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="49.5%" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lostjerome&theme=radical&hide_border=true">
 
-<br/>
-
----
-
-### Contacts
-
-* naronkrach@gmail.com
-* Discord: 𝕵𝖊𝖗𝖔𝖒𝖊#1324
-
-<div style="margin-top:50px;">
-<a href="https://github.com/lostjerome/github-readme-stats">
-<img  width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=lostjerome&theme=dracula&show_icons=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Giingu">
-  <img width="45%" align="center"  src="http://github-readme-streak-stats.herokuapp.com/?user=lostjerome&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
-  </a>
 </div>
-
