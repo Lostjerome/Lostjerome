@@ -1,5 +1,9 @@
-<h3 align="center">This is Jerome the front-end developer 💻 </h3> <h5 align="center"> (I don't know how to center a div) </h5>
+<h3 align="center">This is Jerome the front-end developer  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> </h3> <h5 align="center"> (I don't know how to center a div) </h5>
+  
 
+
+
+</div>
 <h3>More about myself:</h3>
 <p>&emsp; 👨‍💻 Working on front-end devlopment</p>
 <p>&emsp; 👀 Looking for a project work</p>
