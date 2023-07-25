@@ -29,6 +29,10 @@
   <a href="https://instagram.com/lostjerome" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+   &nbsp;
+  <a href="https://discord.com/users/586192347293810700" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
 
 <div align="left">
