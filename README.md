@@ -10,7 +10,7 @@
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="20" height="20">
  Working on front-end development</p>
-<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> Looking for work projects</p>
+<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> Looking for an internship</p>
 <p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Currently learning backend and mobile development </p>
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
@@ -24,6 +24,10 @@
   &nbsp;
   <a href="https://instagram.com/lostjerome">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+   &nbsp;
+  <a href="mailto:naronkrach@gmail.com">
+    <img height="49px" src="https://github.com/Lostjerome/Lostjerome/assets/88102079/266f387f-1f61-4474-883c-aff2ef53a751" />
   </a>
 </p>
 
