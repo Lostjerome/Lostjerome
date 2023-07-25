@@ -22,12 +22,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   &nbsp;
-  <a href="https://instagram.com/lostjerome" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-   &nbsp;
   <a href="mailto:naronkrach@gmail.com" target="_blank">
     <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/lostjerome" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
