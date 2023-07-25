@@ -18,16 +18,16 @@
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/naronkrach-tanajarusawas-1860281b3/" target="blank">
+  <a href="https://www.linkedin.com/in/naronkrach-tanajarusawas-1860281b3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   &nbsp;
-  <a href="https://instagram.com/lostjerome">
+  <a href="https://instagram.com/lostjerome" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
    &nbsp;
-  <a href="mailto:naronkrach@gmail.com">
-    <img height="49px" src="https://github.com/Lostjerome/Lostjerome/assets/88102079/266f387f-1f61-4474-883c-aff2ef53a751" />
+  <a href="mailto:naronkrach@gmail.com" target="_blank">
+    <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" />
   </a>
 </p>
 
