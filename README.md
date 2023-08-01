@@ -39,11 +39,11 @@
 
 <h3 >Web development:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,nodejs,express,graphql,mysql,nextjs,flutter,react,redux,vue,materialui,tailwind,styledcomponents,html,css&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,nodejs,express,graphql,mysql,nextjs,flutter,react,redux,vue,materialui,tailwind,styledcomponents,html,css&perline=9)](https://skillicons.dev)
   
 <h3 align="left">Tools:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,github,netlify,vercel,vite,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,github,netlify,vercel,vite,vim,vscode,idea)](https://skillicons.dev)
  
 </div>
 
