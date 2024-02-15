@@ -9,9 +9,8 @@
 <h3>Glad you're here. I'm ..</h3>
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="20" height="20">
- Working on front-end development</p>
-<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> Looking for an internship</p>
-<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Currently learning backend and mobile development </p>
+ A Brogrammer</p>
+<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> Currently internshipping at ODDS</p>
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
  I can do a nice UI as well</p>
