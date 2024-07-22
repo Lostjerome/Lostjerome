@@ -1,6 +1,6 @@
-<h3 align="center">This is Jerome the front-end developer  
+<h1 align="center">This is Jerome Tana the developer  
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20">
-</h3> <h5 align="center"> (Please tell me how to center a div) </h5>
+</h1> <h3 align="center"> (Please tell me how to center a div) </h3>
   
 
 
@@ -10,27 +10,31 @@
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="20" height="20">
  A Brogrammer</p>
-<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Currently internshipping at ODDS</p>
+<p>&emsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> Former internship developer at <a href="https://odds.team/">ODDS</a> as <a href="https://github.com/oddsjerome">oddsjerome</a></p>
 <p>&emsp; 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
- I can do a nice UI as well</p>
+ Able to do UX/UI design as well</p>
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
+   <a href="https://www.facebook.com/naronkrach" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" width="50px" />
+  </a>
+  &nbsp;
+   <a href="https://jerometana.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" width="50px" />
+  </a>
+  &nbsp;
+   <a href="https://medium.com/@jerometana" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="50px" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/naronkrach-tanajarusawas-1860281b3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   &nbsp;
   <a href="mailto:naronkrach@gmail.com" target="_blank">
     <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/lostjerome" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-   &nbsp;
-  <a href="https://discord.com/users/586192347293810700" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
